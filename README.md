@@ -8,7 +8,7 @@ The course can be accessed by clicking [this link](https://courses.edx.org/cours
 
 The queries will run over small data sets conforming to the following schemas:
 1) [Movie Rating Exercises Schema](https://courses.edx.org/asset-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@asset+block/moviedata.html).
-
+2) [Social Network Exercises Schema](https://courses.edx.org/asset-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@asset+block/socialdata.html).
 
 Thank you
 
